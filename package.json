@@ -1,6 +1,6 @@
 {
   "name": "fgp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "cli client for freegeoip.net",
   "repository": "chitacan/fgp",
   "main": "index.js",
